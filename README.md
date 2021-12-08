@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media-exp1.licdn.com/dms/image/C4D16AQFfwgGjTmHJfg/profile-displaybackgroundimage-shrink_350_1400/0/1614784499610?e=1635379200&v=beta&t=xzvLJdWbxgQuJUQB6Kvubwu7bfSbYEp1Jh-X0uvkSS4" alt="cover" />
+<img width="100%" height = "250px" src="https://www.linkedin.com/in/adrikolaj/overlay/background-image/" alt="cover" />
 </div>
 
 <p align='center'>
