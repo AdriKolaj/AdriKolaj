@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://ibb.co/hMDwBrs" alt="cover" />
+<img width="100%" height = "250px" src="https://i.ibb.co/W3gjk7n/Yellow-Monochrome-Photo-Linked-In-Banner.png" alt="cover" />
 </div>
 
 <p align='center'>
